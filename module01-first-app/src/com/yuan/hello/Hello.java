@@ -10,7 +10,6 @@ package com.yuan.hello;
  */
 public class Hello {
   public static void main(String[] args) {
-    System.out.println("Hello World~~");
-    System.out.println("文字化けのテストあああ");
+    System.out.println("Hello World");
   }
 }
